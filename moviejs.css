@@ -70,7 +70,7 @@ h1{
 }
 h2{
     font-family: monospace;
-    font-size: 35px;
+    font-size: 20px;
 }
 h3{
     font-family: monospace;
@@ -79,6 +79,10 @@ h3{
 h4{
     font-family: monospace;
     font-size: 25px;
+}
+h5{
+    font-family: monospace;
+    font-size: 30px;
 }
 a{
     font-family: monospace;
@@ -91,7 +95,6 @@ img{
 }
 button{
     border-radius: 100%;
-    color: #000000;
 }
 #mov{
     border-radius: 10%;
